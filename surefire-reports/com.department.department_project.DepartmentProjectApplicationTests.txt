@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.department.department_project.DepartmentProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.583 s - in com.department.department_project.DepartmentProjectApplicationTests
